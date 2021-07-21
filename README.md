@@ -1,6 +1,6 @@
 # **Deep Knowledge Tracing을 위한 Python 기초**
 
-- 제작자: 이재용 (서울대학교 교육공학 석사과정, study@snu.ac.kr) 
+- 제작자: 이재용 (서울대학교 교육공학 석사과정, study@snu.ac.kr)
 
 ## 목차
 
